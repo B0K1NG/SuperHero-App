@@ -9,9 +9,7 @@ This web application is built using HTML, CSS, and JavaScript, leveraging the Su
 ## Features ✨
 
 - **Search for Superheroes:** Enter the name of your favorite superhero and get detailed information.
-
 - **Random Hero Generation:** Click the "Random Hero" button to discover information about a randomly selected superhero.
-
 - **Dynamic Display:** See the hero's name, image, and power stats dynamically updated on the page.
 
 ## Tech Stack 💻
@@ -19,16 +17,16 @@ This web application is built using HTML, CSS, and JavaScript, leveraging the Su
 - HTML
 - CSS
 - JavaScript
+- Replit
+- Visual Studio Code
 
 ## Concepts Explored 🛠️
 
 - **Fetch API:** Interacting with the Superhero API to dynamically fetch superhero data.
-
 - **DOM Manipulation:** Updating and displaying content on the webpage in real-time.
-
 - **Event Listeners:** Enabling interactivity through user clicks on buttons.
 
-## How to Use 🚀
+## How to Use 🌐
 
 1. Clone the repository to your local machine.
 2. Open `index.html` in a web browser to run the Super Hero App.
@@ -36,20 +34,12 @@ This web application is built using HTML, CSS, and JavaScript, leveraging the Su
 
 ## Code Structure 🧱
 
-The JavaScript code is well-organized, making use of functions for clarity and modularity. Event listeners handle user interactions, triggering the necessary functions to fetch and display superhero data.
-
-## Credits 🙌
-
-This project was made possible by utilizing the [Superhero API](https://superheroapi.com/).
+The JavaScript code is well-organized, making use of functions for clarity and modularity. The `getSuperHero` function fetches superhero information, and event listeners handle user interactions, triggering the necessary functions to fetch and display superhero data.
 
 ## Contribution 🤝
 
-Feel free to contribute and enhance the Super Hero App! Create issues, submit pull requests, or suggest new features.
-
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
+Feel free to contribute to the Super Hero App project by creating issues, submitting pull requests, or suggesting new features.
 
 ## Acknowledgments 🌟
 
-Thank you for exploring the Super Hero App project! Have fun discovering your favorite superheroes!
+Thank you for exploring the Super Hero App project! Dive into the superhero world and enjoy discovering your favorite characters!
