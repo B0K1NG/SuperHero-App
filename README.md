@@ -4,7 +4,8 @@ Welcome to the Super Hero App project, where you can explore information about s
 
 ## Overview 📝
 
-This web application is built using HTML, CSS, and JavaScript, leveraging the Superhero API to fetch superhero data dynamically. The app provides features like searching for a superhero by name or generating information about a random hero. Key concepts explored include fetch API usage, DOM manipulation, event listeners, and more.
+- This web application is built using HTML, CSS, and JavaScript, leveraging the Superhero API to fetch superhero data dynamically. The app provides features like searching for a superhero by name or generating information about a random hero. Key concepts explored include fetch API usage, DOM manipulation, event listeners, and more.
+- API was acquired from https://superheroapi.com
 
 ## Features ✨
 
