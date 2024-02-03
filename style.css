@@ -1,0 +1,31 @@
+html {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: #817E9F;
+  font-weight: bold;
+}
+h2 {
+  font-size: 60px;
+  margin-top: 0;
+}
+
+p {
+  font-size: 20px
+}
+
+button {
+  width: 100px;
+  height: 25px;
+  background-color: lightslategrey;
+  border: 1px solid lightslategrey;
+  cursor: pointer;
+}
+
+#searchInput {
+  width: 200px;
+  height: 20px;
+  background-color: lightslategrey;
+  border: 1px solid lightslategrey;
+}
